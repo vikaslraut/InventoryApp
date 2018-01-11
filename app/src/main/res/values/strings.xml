@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="empty_view_title_text">No products available</string>
+    <string name="empty_view_subtitle_text">Get started by adding product</string>
+    <string name="hint_product_name">Name</string>
+    <string name="hint_product_price">Price</string>
+    <string name="editer_activity_title_edit">Edit Product</string>
+    <string name="editer_activity_title_add">Add Product</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_delete_all_entries">Delete all products</string>
+    <string name="btn_select_image">Select Image</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_image">Picture</string>
+    <string name="category_stock">Stock</string>
+    <string name="hint_product_stock">0</string>
+    <string name="edit_decrese">-</string>
+    <string name="edit_increase">+</string>
+    <string name="btn_order_more">Contact Supplier for Order</string>
+    <string name="hint_supplier">Supplier</string>
+    <string name="hint_supplier_phone">Phone</string>
+    <string name="category_supplier">Supplier</string>
+    <string name="msg_no_negative_quantity">Quantity cant be negative</string>
+    <string name="btn_sell">Sell</string>
+    <string name="price_label">Price : </string>
+    <string name="quantity_label">Quantity :</string>
+    <string name="not_in_stock">Not in stock</string>
+</resources>
